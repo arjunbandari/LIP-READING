@@ -1,0 +1,2 @@
+python LipReading.py
+pause
